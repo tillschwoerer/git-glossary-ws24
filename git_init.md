@@ -21,3 +21,6 @@ git init <directory>    # Initialize a new repository in the specified directory
 
 - A related git command is `git clone`, which is used to create a copy of an existing repository.
 
+## Sources
+- [Atlassian Tutorials](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-init)
+
