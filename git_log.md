@@ -1,4 +1,4 @@
-# Git Commit
+# Git Log
 
 ## Definition
 
