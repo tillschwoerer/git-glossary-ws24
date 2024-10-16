@@ -20,6 +20,9 @@ dist/
 # Ignore temporary files
 *.tmp
 *.bak
+
+# Ignore environment-specific files
+.env
 ```
 
 ## Code Snippet
