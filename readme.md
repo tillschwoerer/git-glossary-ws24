@@ -21,8 +21,9 @@ This repository is a collaborative project created for the purpose of learning a
 - **Submit a Pull Request**: Go to your Githut fork, and make a pull request to the main repository for integration and review.
 
 ### Review Process and Merging
+Since we are using the forking workflow, by default, none of you have permissions to review pull requests or merge pull requests. Thus, to be able to practice the review process, please please provide me with your github username or email address and I will add you as a collaborator to the project.
 
-- Each pull request must be reviewed by at least one person.
+- Each pull request should be reviewed by at least one person.
 - Reviewers should check for accuracy and clarity.
 - Pull requests can be merged once they have been approved.
 - In this simple setup, conflicts are unlikely, since everyone is working in a separate file. 
