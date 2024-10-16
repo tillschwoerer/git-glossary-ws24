@@ -43,8 +43,9 @@ git log --graph --oneline --all
 
 # Related Terms
 
-- Commit
-- Branch
-- Merge
-- Rebase
-- Checkout
+- **Commit**: A snapshot of changes in the repository. Each commit is recorded in the log.
+
+- **Branch**: A pointer to a specific commit. The log can show commits from different branches.
+- **Merge**: Combining changes from different branches. Merges are also recorded in the log.
+- **Rebase**: A way to integrate changes from one branch into another. The log can help visualize the history before and after a rebase.
+- **Diff**: The difference between commits. You can use git diff in conjunction with git log to see what changes were made in each commit.
