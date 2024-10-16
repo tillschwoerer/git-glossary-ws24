@@ -16,7 +16,14 @@ Please provide code examples that demonstrate the command or feature in action. 
 # your git commands here
 ```
 
-
 ## Related Terms
 
-Provide a list of terms that are related to this term. This can be other git commands, or other concepts that are closely related to this one, and explain how they are connected.
+- **Commit**: A snapshot of changes in the repository. Each commit is recorded in the log.
+
+- **Branch**: A pointer to a specific commit. The log can show commits from different branches.
+
+- **Merge**: Combining changes from different branches. Merges are also recorded in the log.
+
+- **Rebase**: A way to integrate changes from one branch into another. The log can help visualize the history before and after a rebase.
+
+- **Diff**: The difference between commits. You can use git diff in conjunction with git log to see what changes were made in each commit.
