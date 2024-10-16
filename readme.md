@@ -19,3 +19,11 @@ This repository is a collaborative project created for the purpose of learning a
 - **Commit Your Changes**: Commit your changes with a clear message, e.g., "Add definition for <term>".
 - **Push Your Changes**: Push your branch to your GitHub fork. Note if you are pushing a branch for the first, you need to use the --set-upstream flag, e.g., `git push --set-upstream origin <your_branchname>`. For follow-up pushes, you can simply use `git push`. 
 - **Submit a Pull Request**: Go to your Githut fork, and make a pull request to the main repository for integration and review.
+
+### Review Process and Merging
+
+- Each pull request must be reviewed by at least one person.
+- Reviewers should check for accuracy and clarity.
+- Pull requests can be merged once they have been approved.
+- In this simple setup, conflicts are unlikely, since everyone is working in a separate file. 
+- However, should any merge conflict arise (e.g. if simultaneous edits are made to the README file), then try to resolve the conflict (either locally or on Github).
